@@ -1,4 +1,4 @@
-# community-admin-web
+# community-admin-web(1.0)
 
 ## 前言
 
@@ -52,6 +52,6 @@ src -- 源码目录
 - 访问地址：[http://localhost:8090](http://localhost:8090) 即可打开后台管理系统页面;
 - `注意`：如果遇到无法运行npm命令，需要配置npm的环境变量。
 
-## 
+##
 
 Copyright (c)  2020-2021 rh-tech
